@@ -23,6 +23,9 @@ You can pass list of browsers as a CLI argument too:
 karma start --browsers SafariPrivate
 ```
 
+## Todo
+- if Safari is already open, don't close it afterward
+
 ----
 
 For more information on Karma see the [homepage].

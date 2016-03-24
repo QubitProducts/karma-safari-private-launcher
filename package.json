@@ -1,0 +1,25 @@
+{
+  "name": "karma-safari-private-launcher",
+  "version": "1.0.0",
+  "description": "A Karma plugin. Launcher for Safari private mode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/QubitProducts/karma-safari-private-launcher.git"
+  },
+  "author": "Rob Tod <roberttod@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QubitProducts/karma-safari-private-launcher/issues"
+  },
+  "homepage": "https://github.com/QubitProducts/karma-safari-private-launcher#readme",
+  "dependencies": {
+    "applescript": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^6.0.8"
+  }
+}
