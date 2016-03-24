@@ -1,6 +1,6 @@
 # karma-safari-private-launcher
 
-> Launcher for Safari in private mode.
+> Launcher for Safari in private mode (only works on a mac).
 
 ## Installation
 
